@@ -1,18 +1,18 @@
 # similarity_deft2020
 
 
-Main function :
+## Main function
 
 get_distances(segments, conf, IDF) 
-  Takes a list of texts, the first will be compared to the rest
-  Returns the distances between this segment and the others
+ - Takes a list of text segments, the first will be compared to the rest
+ - Returns the distances between this segment and the others
 
-  Optional arguments:
-    conf is a parameter configuration (see get_all_parameters)
-    IDF is a list of texts (of the same domain or not) used to compute Tf-Idf
+ - Optional arguments:
+   -  conf is a parameter configuration (see get_all_parameters)
+   -  IDF is a list of texts (of the same domain or not) used to compute Tf-Idf
 
 
-Other functions :
+## Other functions
 
 get_parameters()
  - returns a list of parameter values for Grid Search
