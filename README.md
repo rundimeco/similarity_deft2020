@@ -34,5 +34,7 @@ grid_search(segments):
 
 ## Reference
 Sentence Similarity : a study on similarity metrics with words and character strings (Calcul de similarité entre phrases : quelles mesures et quels descripteurs ?, in French)
+
 Davide Buscaldi and Ghazi Felhi and Dhaou Ghoul and Joseph Le Roux and Gaël Lejeune and Xudong Zhang
+
 DEFT@JEP/TALN/RECITAL 2020, p. 14-25 (ranked 2nd in two tasks, best unsupervised method)
